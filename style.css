@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu,
+.logo{
+    list-style-type: none;
+}
+a:hover{
+   color:blue;
+}
+.button{
+ list-style-type: none;
+}
+.text_msg{
+    font-size: 68px;
+}
+.video_section{
+    background-image: url(../images/action_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:460px;
+}
+.fa-regular.fa-circle-play{
+font-size: 90px;
+}
+.request{
+    background-image: url(../images/form_bg.jpg);
+}
